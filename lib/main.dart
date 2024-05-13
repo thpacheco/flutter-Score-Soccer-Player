@@ -1,5 +1,4 @@
-import 'package:app_pofesso_flutter/home_body.dart';
-import 'package:app_pofesso_flutter/players.dart';
+import 'package:app_pofesso_flutter/screens/form_players.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
@@ -26,7 +25,7 @@ class _MyAppState extends State<MyApp> {
             ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 19, 1, 48)),
         useMaterial3: true,
       ),
-      home:HomeBody(),
+      home:FormPlayers(),
     );
   }
 }

@@ -28,23 +28,23 @@ class _HomeBodyState extends State<HomeBody> {
             children: [
               Players(
                   'Gustavo Pacheco',
-                  'assets/images/ProfileSoccerPlayer.png',
+                  'assets/images/ProfileSoccerPlayer.webp',
                   3),
               Players(
                   'Guilherme Santos Santana Da Silva',
-                  'assets/images/ProfileSoccerPlayer.png',
+                  'assets/images/ProfileSoccerPlayer.webp',
                   1),
               Players(
                   'Matheus Augusto de Lima',
-                  'assets/images/ProfileSoccerPlayer.png',
+                  'assets/images/ProfileSoccerPlayer.webp',
                   2),
               Players(
                   'David Dos Santos',
-                  'assets/images/ProfileSoccerPlayer.png',
+                  'assets/images/ProfileSoccerPlayer.webp',
                   1),
               Players(
                   'Theo Morreira filho',
-                  'assets/images/ProfileSoccerPlayer.png',
+                  'assets/images/ProfileSoccerPlayer.webp',
                   5),
                   SizedBox(height: 80,)
             ],

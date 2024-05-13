@@ -44,8 +44,8 @@ class _PlayersState extends State<Players> {
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(5),
                         ),
-                        width: 100,
-                        height: 100,
+                        width: 70,
+                        height: 120,
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(4),
                           child: Image.asset(
